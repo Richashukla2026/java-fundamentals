@@ -17,6 +17,7 @@ public class ExerciseTwo {
             System.out.println(year + " is a leap year.");
         } else {
             System.out.println(year + " is not a leap year.");
+
         }
 
         // Step 5: Close the scanner

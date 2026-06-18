@@ -4,7 +4,6 @@ public class ExerciseThree {
             String item1Name = "Apple";
             int item1Qty = 2;
             double item1Price = 15.00;
-git
             // Item 2: Milk
             String item2Name = "Milk";
             int item2Qty = 1;

@@ -7,7 +7,8 @@ public class ExerciseOne {
         //Step 2 Assignment of values to Variables
         name = "Sofia";
         age =  22;
-        city = "Stockholm";
+
+        city = " karlscrona";
         //Step 3 Print the output
         IO.println("====================");
         IO.println("     My Profile     ");
